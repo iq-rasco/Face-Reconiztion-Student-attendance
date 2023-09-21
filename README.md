@@ -14,3 +14,8 @@ my graduation project  about Face Reconiztion &amp; Student attendance
 
 5-microsoft office 2013
 
+_________________________
+
+1-exstra Face Reconiztion & Student attendance.rar 
+
+2-run application "\FaceRecProOV\Face Reconiztion & Student attendance\bin\Debug\MultiFaceRec.exe"
